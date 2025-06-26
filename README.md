@@ -22,6 +22,9 @@ An academic project on how AI tools like ML, NLP, and predictive analytics impac
 (https://drive.google.com/file/d/14hfGOzwLE_k3ChmolWuRVN7CcLKAZtKA/view?usp=drive_link)
 
 ## 📜 Certificates
+
+Project Certificate (https://drive.google.com/file/d/13yldZpga94rx-i8PztOOYdP_nqFDrOdt/view?usp=drive_link)
+
 Data Visualization with Power BI (https://drive.google.com/file/d/1AACxmmTiVt7bUfML-sGg4IDFfyV2nHDK/view?usp=drive_link)
 
 Introduction to phyton (https://lnkd.in/gK9Nx3MC)
